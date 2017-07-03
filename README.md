@@ -90,6 +90,7 @@ Oxidized is a network device configuration backup tool. It's a RANCID replacemen
  * Cisco
    * [AireOS](lib/oxidized/model/aireos.rb)
    * [ASA](lib/oxidized/model/asa.rb)
+   * [AsyncOS](lib/oxidized/model/asyncos.rb)
    * [CatOS](lib/oxidized/model/catos.rb)
    * [IOS](lib/oxidized/model/ios.rb)
    * [IOSXR](lib/oxidized/model/iosxr.rb)
